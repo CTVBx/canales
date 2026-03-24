@@ -1,5 +1,23 @@
 #EXTM3U
 
+#EXTINF:-1 ,TeleSur480p
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
+#EXTINF:-1 ,TeleSur720p
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/720p/playlist.m3u8
+
+#EXTINF:-1 ,TeleSur1080p
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/1080p/playlist.m3u8
+
+
+
+#EXTINF:-1 ,Locomotion
+https://www.cxtv.com.br/proxy.php?url=http://51.222.85.85:81/hls/loco/index.m3u8
+
+
+#EXTINF:-1 ,Kanade Chile
+https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
+
 #EXTINF:-1 ,TeleSur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
